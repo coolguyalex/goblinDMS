@@ -1,0 +1,1 @@
+beasts: creature, size, alignment, CR, XP, source, P(forest), P(town), P(water), P(jungle), P(desert), P(arctic)

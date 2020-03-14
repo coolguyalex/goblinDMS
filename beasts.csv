@@ -1,0 +1,113 @@
+Frog,Tiny,Unaligned,0,0,mm 322,10,5,10
+Sea Horse,Tiny,Unaligned,0,0,mm 337,0,0,5
+Baboon,Small,Unaligned,0,10,mm 318,0,0,0
+Badger,Tiny,Unaligned,0,10,mm 318,9,2,0
+Bat,Tiny,Unaligned,0,10,mm 318,8,8,0
+Cat,Tiny,Unaligned,0,10,mm 320,1,10,0
+Crab,Tiny,Unaligned,0,10,mm 320,0,0,10
+Cranium Rat,Tiny,LE,0,10,vgm 133,1,4,0
+Deer,Medium,Unaligned,0,10,mm 321,7,1,0
+Eagle,Small,Unaligned,0,10,mm 322,5,1,0
+Giant Fire Beetle,Small,Unaligned,0,10,mm 325,5,1,0
+Goat,Medium,Unaligned,0,10,mm 330,1,10,0
+Hawk,Tiny,Unaligned,0,10,mm 330,5,3,0
+Hyena,Medium,Unaligned,0,10,mm 331,0,0,0
+Jackal,Small,Unaligned,0,10,mm 331,0,2,0
+Lizard,Tiny,Unaligned,0,10,mm 332,5,4,1
+Octopus,Small,Unaligned,0,10,mm 333,0,0,5
+Owl,Tiny,Unaligned,0,10,mm 333,4,3,0
+Quipper,Tiny,Unaligned,0,10,mm 335,0,0,10
+Rat,Tiny,Unaligned,0,10,mm 335,8,10,0
+Raven,Tiny,Unaligned,0,10,mm 335,10,7,0
+Scorpion,Tiny,Unaligned,0,10,mm 337,5,2,0
+Spider,Tiny,Unaligned,0,10,mm 337,9,8,0
+Vulture,Medium,Unaligned,0,10,mm 339,7,5,0
+Weasel,Tiny,Unaligned,0.13,10,mm 340,7,3,0
+Blood Hawk,Small,Unaligned,0.13,25,mm 319,2,0,0
+Camel,Large,Unaligned,0.13,25,mm 320,0,2,0
+Dolphin,Medium,Unaligned,0.13,25,vgm 208,0,0,5
+Flying Snake,Tiny,Unaligned,0.13,25,mm 322,1,0,0
+Giant Crab,Medium,Unaligned,0.13,25,mm 324,0,0,0
+Giant Rat,Small,Unaligned,0.13,25,mm 327,3,5,0
+Giant Weasel,Medium,Unaligned,0.13,25,mm 329,4,1,0
+Mastiff,Medium,Unaligned,0.13,25,mm 332,0,9,0
+Mule,Medium,Unaligned,0.13,25,mm 333,0,9,0
+Poisonous Snake,Tiny,Unaligned,0.13,25,mm 334,4,0,4
+Pony,Medium,Unaligned,0.13,25,mm 335,0,9,0
+Stirge,Tiny,Unaligned,0.25,25,mm 284,6,2,0
+Axe Beak,Large,Unaligned,0.25,50,mm 317,4,0,0
+Boar,Medium,Unaligned,0.25,50,mm 319,6,0,0
+Constrictor Snake,Large,Unaligned,0.25,50,mm 320,2,0,0
+Cow,Large,Unaligned,0.25,50,vgm 207,0,9,0
+Deep Rothe,Medium,Unaligned,0.25,50,vgm 207,0,0,0
+Dimetrodon,Medium,Unaligned,0.25,50,vgm 139,0,0,0
+Draft Horse,Large,Unaligned,0.25,50,mm 321,0,10,0
+Elk,Large,Unaligned,0.25,50,mm 322,4,0,0
+Giant Badger,Medium,Unaligned,0.25,50,mm 323,4,0,0
+Giant Bat,Large,Unaligned,0.25,50,mm 323,5,2,0
+Giant Centipede,Small,Unaligned,0.25,50,mm 323,4,3,0
+Giant Frog,Medium,Unaligned,0.25,50,mm 325,7,0,6
+Giant Lizard,Large,Unaligned,0.25,50,mm 326,6,1,3
+Giant Owl,Large,N,0.25,50,mm 327,2,1,0
+Giant Poisonous Snake,Medium,Unaligned,0.25,50,mm 327,2,0,0
+Giant Wolf Spider,Medium,Unaligned,0.25,50,mm 330,4,3,0
+Hadrosaurus,Large,Unaligned,0.25,50,vgm 140,0,0,0
+Ox,Large,Unaligned,0.25,50,vgm 207,0,7,0
+Panther,Medium,Unaligned,0.25,50,mm 333,3,0,0
+Pteranodon,Medium,Unaligned,0.25,50,mm 80,0,0,0
+Riding Horse,Large,Unaligned,0.25,50,mm 336,0,9,0
+Rothe,Large,Unaligned,0.25,50,vgm 207,0,0,0
+Stench Kow,Large,Unaligned,0.25,50,vgm 207,0,0,0
+Swarm of Bats,Medium,Unaligned,0.25,50,mm 337,2,1,0
+Swarm of Rats,Medium,Unaligned,0.25,50,mm 339,4,5,0
+Swarm of Ravens,Medium,Unaligned,0.25,50,mm 339,2,5,0
+Velociraptor,Tiny,Unaligned,0.25,50,vgm 140,0,0,0
+Wolf,Medium,Unaligned,0.5,50,mm 341,5,2,0
+Ape,Medium,Unaligned,0.5,100,mm 317,0,0,0
+Black Bear,Medium,Unaligned,0.5,100,mm 318,4,1,0
+Crocodile,Large,Unaligned,0.5,100,mm 320,0,0,5
+Giant Goat,Large,Unaligned,0.5,100,mm 326,1,3,0
+Giant Sea Horse,Large,Unaligned,0.5,100,mm 328,0,0,4
+Giant Wasp,Medium,Unaligned,0.5,100,mm 329,2,2,0
+Reef Shark,Medium,Unaligned,0.5,100,mm 336,0,0,7
+Swarm of Insects,Medium,Unaligned,0.5,100,mm 338,5,4,0
+Swarm of Rot Grubs,Medium,Unaligned,0.5,100,vgm 208,2,1,0
+Warhorse,Large,Unaligned,1,100,mm 340,0,5,0
+Brown Bear,Large,Unaligned,1,200,mm 319,2,0,0
+Deinonychus,Medium,Unaligned,1,200,vgm 139,0,0,0
+Dire Wolf,Large,Unaligned,1,200,mm 321,2,0,0
+Giant Eagle,Large,NG,1,200,mm 324,3,0,0
+Giant Hyena,Large,Unaligned,1,200,mm 326,0,0,0
+Giant Octopus,Large,Unaligned,1,200,mm 326,0,0,3
+Giant Spider,Large,Unaligned,1,200,mm 328,4,3,0
+Giant Toad,Large,Unaligned,1,200,mm 329,6,1,0
+Giant Vulture,Large,NE,1,200,mm 329,6,0,0
+Lion,Large,Unaligned,1,200,mm 331,0,0,0
+Swarm of Quippers,Medium,Unaligned,1,200,mm 338,0,0,7
+Tiger,Large,Unaligned,2,200,mm 339,3,0,0
+Allosaurus,Large,Unaligned,2,450,mm 79,0,0,0
+Aurochs,Large,Unaligned,2,450,vgm 207,0,1,0
+Cave Bear,Large,Unaligned,2,450,mm 334,1,0,0
+Giant Boar,Large,Unaligned,2,450,mm 323,4,0,0
+Giant Constrictor Snake,Huge,Unaligned,2,450,mm 324,1,0,0
+Giant Elk,Huge,Unaligned,2,450,mm 325,2,0,0
+Hunter Shark,Large,Unaligned,2,450,mm 330,0,0,3
+Plesiosaurus,Large,Unaligned,2,450,mm 80,0,0,1
+Polar Bear,Large,Unaligned,2,450,mm 334,0,0,0
+Quetzalcoatlus,Huge,Unaligned,2,450,vgm 140,1,0,0
+Rhinoceros,Large,Unaligned,2,450,mm 336,0,0,0
+Saber-toothed Tiger,Large,Unaligned,2,450,mm 336,0,0,0
+Swarm of Poisonous Snakes,Medium,Unaligned,3,450,mm 338,1,0,0
+Ankylosaurus,Huge,Unaligned,3,700,mm 79,0,0,0
+Giant Scorpion,Large,Unaligned,3,700,mm 327,3,0,0
+Killer Whale,Huge,Unaligned,4,700,mm 331,0,0,4
+Elephant,Huge,Unaligned,4,1100,mm 322,0,0,0
+Stegosaurus,Huge,Unaligned,5,1100,vgm 140,0,0,0
+Brontosaurus,Gargantuan,Unaligned,5,1800,vgm 139,0,0,0
+Giant Crocodile,Huge,Unaligned,5,1800,mm 324,0,0,3
+Giant Shark,Huge,Unaligned,5,1800,mm 328,0,0,4
+Swarm of Cranium Rats,Medium,LE,5,1800,vgm 133,1,0,0
+Triceratops,Huge,Unaligned,6,1800,mm 80,0,0,0
+Mammoth,Huge,Unaligned,7,2300,mm 332,0,0,0
+Giant Ape,Huge,Unaligned,8,2900,mm 323,0,0,0
+Tyrannosaurus Rex,Huge,Unaligned,8,3900,mm 80,0,0,0

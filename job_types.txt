@@ -1,0 +1,13 @@
+Government
+Military
+Criminal
+Religious
+Merchants
+Entertainers
+Farmers
+Scholars
+Sailors
+Regular Folk
+Craftsmen
+Services
+Other 

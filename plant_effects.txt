@@ -1,0 +1,100 @@
+ No effect
+ No effect
+ No effect
+ No effect
+ Poison. Target suffers poisoned condition on failed DC 12 CON save
+ Target can understand and only speak the regional language
+ Heals d6 + CON hit points
+ Severe dehydration - suffer 1 level of exhaustion every 30 minutes until you drink 5 litres of water
+ Lightfoot - advantage on stealth checks to move silently
+ Antidote
+ All animals (incl. pets and animal companions) hate target
+ Poisonous unless cooked (DC 13 CON save, poisoned condition) in which case it provides a day's worth of nourishment
+ If boiled in d4 litres of water for 4 hours, the reduced liquid works as a potion of healing (enough for 2 doses). Loses 1d4 potency each day after the first
+ Gastritis, curable by any restoration spell or d6 days of bed rest. Target suffers 1 level of exhaustion after each day of activity whilst affected
+ Hot hands, capable of burning self and igniting flammable objects. d6 fire damage, touch
+ Target can walk on walls
+ Target can walk on walls and ceilings
+ Target experiences zero gravity
+ Skin colour changes for d6 days. Roll a d8. 1-7: rainbow colours; 8: invisibility but any held/worn objects are still visible (lasts d20 + 4 hours)
+ The extracted oils numb the body against pain for 2 rounds. The target ignores damage for the duration (even if reduced to 0 hit points). After the duration elapses, targets suffers from the accumulated damage plus bonus 1d10 psychic damage (only if damage sustained)
+ Polymorph into a random animal (roll on random animal table)
+ Eyes water uncontrollably for 3 rounds. Treat vision as lightly obscured
+ Descend through open space at feather speed
+ When burned, tastes like bacon. However, something will feel off about it
+ Polymorph into an intelligent regional creature (GM discretion)
+ Polymorph into the most recently touched animal
+ Polymorph into a random humanoid (roll on random humanoid table)
+ Polymorph into the most recently touched humanoid
+ True darkvision. Lasts 8 hours
+ The extracted oils numb the body against pain for 4 rounds. The target ignores damage for the duration (even if reduced to 0 hit points). After the duration elapses, target suffers from the accumulated damage plus bonus 2d10 psychic damage (only if damage sustained)
+ When ground into a paste with water, it can melt through up to 1 inch of non-adamantine metal when applied. One vial of paste can affect a surface area of up to 1 sq. foot (Note it is very difficult to effectively apply during combat)
+ Chewing gives resistance versus random damage type. Swallowing deals 3d8 poison damage (1/2 on a successful DC 15 CON save)
+ Vegetables taste like meat and vice-versa. Grains taste like lard. Lard tastes like blood
+ Savoury and sweet tastes are reversed
+ Anything consumed by the target is bland, but edible (poisons will still act as normal however)
+ All ingested poison is neutralised. Lasts 3 hours
+ If spat on by a diseased creature and then roasted, it cures that disease when consumed
+ Poison. Blind on failed DC 14 CON save
+ Makes skin hypersensitive
+ The extracted oils numb the body against pain for 6 rounds. The target ignores damage for the duration (even if reduced to 0 hit points). After the duration elapses, target suffers from the accumulated damage plus bonus 3d10 psychic damage (only if damage sustained)
+ Target's skin thickens. Resistance to piercing and slashing damage
+ Target moves at double speed for d4 rounds
+ Target sneezes whenever a random creature (roll on random creature table) is within 100ft
+ Plant glows whenever a random creature (roll on random creature table) is within 75ft
+ Can be used to prepare a herbal poultice. 12 hours of successful preparation required. Heals 1d4 hit points every hour for 6 hours. If the poultice isn't removed after 8 hours, there is a 15% chance of infection
+ Can be used to prepare a herbal poultice. 1 day of successful preparation required. Heals 1d6 hit points every hour for 6 hours. If the poultice isn't removed after 8 hours, there is a 15% chance of infection
+ Can be used to prepare a herbal poultice. 2 days of successful preparation required. Heals 1d8 + CON mod hit points every hour for 6 hours. If the poultice isn't removed after 8 hours, there is a 15% chance of infection
+ Plant screams when burned, deafening all creatures within a 20' radius on a failed DC 13 WIS save
+ Two creatures that consume this (1 each) are able to communicate telepathically across up to 100 miles. Lasts 1 day
+ Target becomes irresistable to men
+ Target becomes irresistable to women
+ All animals are friendly towards the target. Lasts 1 minute
+ All animals are friendly towards the target. They will become inconveniently so after d4 rounds. Lasts 6 rounds. The plant looks almost identical to #52
+ Target sheds its skin (there is new skin beneath), which is wearable by a creature of similar build
+ Target's bones turn to jelly
+ Target's Strength score increases by 5 for 1 minute. After the duration elapses, there is a 40% chance of muscles tearing
+ Target's Dexterity score increases by 5 for 1 minute. After the duration elapses, target gains 2 levels of exhaustion
+ Closest NPC will be drawn to the location of the target
+ Shaped like a tuning fork, each prong resonates when close to the other. A consuming creature knows the location of the other prong for the duration
+ Masks target's scent
+ The distilled liquid of this plant makes metal extremely brittle. 1 vial can affect up to 1 sq. foot of metal
+ Induces vomiting when consumed
+ Target's sense of direction is reversed for d6 rounds
+ No effect
+ No effect
+ No effect
+ No effect
+ No effect
+ Tastes awful, yet is more-ish
+ No effect
+ No effect
+ No effect
+ No effect
+ No effect
+ No effect
+ Tastes like a good meal from the target's childhood. The wave of nostalgia overwhelms the target for d6 minutes
+ Antidote
+ Antidote
+ Functions as an antidote if steamed
+ The distilled liquid obtained from this induces amnesia when consumed. Condition lasts d6 days
+ Target can breathe underwater for 3 hours
+ Target can understand and verbally communicate with a random animal (roll on the random animal table). Lasts 30 minutes
+ Changes target's hair colour when consumed
+ Releases a cloud of spores upon impact. All creatures in a 15ft radius fall asleep on a failed DC 14 CON save
+ Target falls asleep on a failed DC 15 CON save. Regains 2d10 hit points if it sleeps for at least 1 hour
+ When simmered for 8 hours with the skin removed, the consuming target's body turns cold and their heartrate greatly decreases. Their condition is otherwise unchanged. Great for feigning death. Lasts d20 hours
+ Target drains and stores heat from external sources. This heat may then be released by touching another creature or object. Every time heat is stored, there is a 10% chance of internal combustion. Effect lasts d10 minutes, after which point internal combustion occurs
+ Target smells exquisite. People like them. Carnivorous creatures desire them. Lasts 4 hours
+ Target becomes incredibly imposing to others. Enemies will not attack target unless there is no other reasonable choice
+ Can be ground into a paste to make a strong glue. Sets and dries in 1 minute when in contact with air or water. Requires DC 20 STR check to break bond
+ Juice is highly acidic and difficult to safely obtain. Deals 3d10 acid damage
+ Target's skin glows in the dark for d8 hours
+ Every creature the target touches becomes covered in painful boils on a failed DC 13 CON save
+ Target is immune to and may (via touch) dispel any magic of d8th level or lower for d8 rounds
+ Target's body becomes wet and slippery, reducing friction to zero. Makes them harder to hit, among other things. Lasts d10 hours
+ Target gains d100 + 40 pounds
+ Target's body instantaneously converts all body fat into energy. All Strength, Dexterity and Intelligence rolls have a +5 bonus. Duration is d4 + 1 rounds or otherwise at GM's discretion (maybe the target has a lot of fat). Target then suffers 3 levels of exhaustion
+ Target's body sprouts a random, fully-functional, monstrous body part. Roll a d6 - 1: claw, 2: spiked tail, 3: spider legs, 4: tentacles, 5: wings, 6: third eye
+ Target immediately knows how to use whatever they are currently touching and what it is used for. 5% chance that this is a hallucination
+ For 1 year, intelligent creatures within a 20 mile radius at the time of consumption view the target as a god-like entity and will follow them without question

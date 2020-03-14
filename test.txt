@@ -1,0 +1,5 @@
+color, probability, lower range, upper range
+red, 5, 0, 4
+blue, 15, 5, 19
+green, 30, 20, 49 
+yellow, 50, 50, 99

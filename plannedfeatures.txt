@@ -1,0 +1,2 @@
+scrolling logo intro screen- insert a pause (sleep func) between each lien so the logo is slowly revealed one line at a time. 
+
